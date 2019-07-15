@@ -1,5 +1,9 @@
 var express = require("express");
 var app = express();
+
+const port = process.env.PORT || 8000;
+
+
 var items = require('./data/items').items
 
 app.get('/', function (req, res) {
@@ -13,6 +17,6 @@ app.get("/url", (req, res, next) => {
     res.json(["Tony", "Lisa", "Michael", "Ginger", "Food"]);
 });
 
-app.listen(3000, () => {
+app.listen(port, () => {
     console.log("Server running on port 3000");
 });
