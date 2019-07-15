@@ -1,0 +1,22 @@
+{
+  "name": "basic-gear-api",
+  "version": "1.0.0",
+  "description": "simple objects to retrieve",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lcborn4/basic-gear-api.git"
+  },
+  "author": "Logan Born",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lcborn4/basic-gear-api/issues"
+  },
+  "homepage": "https://github.com/lcborn4/basic-gear-api#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
