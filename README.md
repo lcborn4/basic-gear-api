@@ -3,6 +3,7 @@ simple objects to retrieve
 
 ## Routes
 Home: GET https://create-character-items.herokuapp.com/
+
 Items: GET https://create-character-items.herokuapp.com/items
 
 ### Structure
