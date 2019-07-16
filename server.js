@@ -5,13 +5,13 @@ const port = process.env.PORT || 8000;
 
 var items = require('./data/items').items
 
+//tester
 app.get('/', function (req, res) {
     res.send("Hello World");
 });
 
-app.get('/favicon.ico', (req, res) => res.status(204));
-
-app.get("/url", (req, res, next) => {
+//the items
+app.get("/items", (req, res, next) => {
     console.log('items', items)
     res.json(items);
 });
