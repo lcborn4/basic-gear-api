@@ -6,7 +6,7 @@ Home: GET https://create-character-items.herokuapp.com/
 
 Items: GET https://create-character-items.herokuapp.com/items
 
-### Structure
+## Structure
     {
       name: string,
       slot: string,
@@ -18,7 +18,9 @@ Items: GET https://create-character-items.herokuapp.com/items
       }
     }
 
-#### Slot
+### Slot
 Possible values: head, chest, legs, gauntlets, rings, boots
 
-
+## Calling Routes
+### GIFs
+TODO
