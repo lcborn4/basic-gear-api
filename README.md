@@ -19,7 +19,9 @@ Items: GET https://create-character-items.herokuapp.com/items
     }
 
 ### Slot
-Possible values: head, chest, legs, gauntlets, rings, boots
+Possible values: head, chest, legs, gauntlets, ring, boots
+
+2 rings
 
 ## Calling Routes
 ### GIFs
