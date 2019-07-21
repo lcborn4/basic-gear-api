@@ -3,7 +3,12 @@ var app = express();
 
 const port = process.env.PORT || 8000;
 
-var items = require('./data/items').items
+//going to comment
+// var items = require('./data/items').items
+var items = require('./data/newitems').items
+var plateitems = require('./data/plate/plateitems').plateItems
+
+// var plateHelmets = require('./data/plate/helmets')
 
 //tester
 app.get('/', function (req, res) {
@@ -12,8 +17,12 @@ app.get('/', function (req, res) {
 
 //the items
 app.get("/items", (req, res, next) => {
-    console.log('items', items)
-    res.json(items);
+    res.json(items());
+});
+
+//the items
+app.get("/newitems", (req, res, next) => {
+    res.send(plateitems());
 });
 
 app.listen(port, () => {
