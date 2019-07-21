@@ -3,6 +3,8 @@ var clothItems = require('./cloth/clothItems').clothItems
 var leatherItems = require('./leather/leatherItems').leatherItems
 var plateItems = require('./plate/plateItems').plateItems
 
+var rings = require('./rings/rings')
+
 module.exports.items = function () {
 
     let items = [];
@@ -16,6 +18,9 @@ module.exports.items = function () {
     let plate = plateItems();
     console.log('plate items', plate) //debug
 
+
+    console.log('ring items', rings) //debug
+
     cloth.forEach(element => {
         items.push(element)
     });
@@ -25,6 +30,10 @@ module.exports.items = function () {
     });
 
     plate.forEach(element => {
+        items.push(element)
+    });
+
+    rings.forEach(element => {
         items.push(element)
     });
 
