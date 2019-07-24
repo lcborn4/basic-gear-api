@@ -1,20 +1,14 @@
 [
     {
         "name": "Ring of Truth"
-        //gives extra mana
     },
     {
         "name": "Ring of Strength"
-        //attack
-        //defense
     },
     {
         "name": "Ring of Attack"
-        //attack
     },
     {
         "name":"Summoner's Ring"
-        //attack
-        //health
     }
 ]
