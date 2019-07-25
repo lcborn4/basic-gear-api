@@ -2,7 +2,7 @@ Item structure
 
     {
       name: string,
-      slot: Ring,
+      slot: "ring",
       attributes: {
         health: number,
         attack: number,
