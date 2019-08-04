@@ -10,6 +10,7 @@ Items: GET https://create-character-items.herokuapp.com/items
     {
       name: string,
       slot: string,
+      type: string, //not used for rings
       attributes: {
         health: number,
         attack: number,
@@ -22,6 +23,10 @@ Items: GET https://create-character-items.herokuapp.com/items
 Possible values: head, chest, legs, gauntlets, boots, ring
 
 2 rings
+
+### Type
+#### Armor Type
+Possible values: cloth, leather, plate
 
 ## Calling Routes
 ### GIFs
