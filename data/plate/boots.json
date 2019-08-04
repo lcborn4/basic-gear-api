@@ -1,5 +1,57 @@
 [
     {
-        "name": "Steel Boots"
+        "name": "Steel Boots",
+        "slot": "boots",
+        "type": "plate",
+        "attributes": {
+            "health": 20,
+            "attack": 5,
+            "defense": 20,
+            "mana": 20
+        }
+    },
+    {
+        "name": "Deathguard's Sabatons",
+        "slot": "boots",
+        "type": "plate",
+        "attributes": {
+            "health": 45,
+            "attack": 5,
+            "defense": 30,
+            "mana": 20
+        }
+    },
+    {
+        "name": "Scarlet Boots",
+        "slot": "boots",
+        "type": "plate",
+        "attributes": {
+            "health": 55,
+            "attack": 10,
+            "defense": 50,
+            "mana": 30
+        }
+    },
+    {
+        "name": "Iron Ballast Sabatons",
+        "slot": "boots",
+        "type": "plate",
+        "attributes": {
+            "health": 70,
+            "attack": 15,
+            "defense": 80,
+            "mana": 50
+        }
+    },
+    {
+        "name": "Recruit's Boots",
+        "slot": "boots",
+        "type": "plate",
+        "attributes": {
+            "health": 90,
+            "attack": 30,
+            "defense": 120,
+            "mana": 80
+        }
     }
 ]
