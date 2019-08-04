@@ -1,5 +1,57 @@
 [
     {
-        "name": "Leather Gauntlets"
+        "name": "Leather Gauntlets",
+        "slot": "gauntlets",
+        "type": "leather",
+        "attributes": {
+            "health": 5,
+            "attack": 5,
+            "defense": 5,
+            "mana": 1
+        }
+    },
+    {
+        "name": "Crisp Leather Gloves",
+        "slot": "gauntlets",
+        "type": "leather",
+        "attributes": {
+            "health": 10,
+            "attack": 10,
+            "defense": 10,
+            "mana": 5
+        }
+    },
+    {
+        "name": "Ghoul Fingers",
+        "slot": "gauntlets",
+        "type": "leather",
+        "attributes": {
+            "health": 15,
+            "attack": 20,
+            "defense": 15,
+            "mana": 10
+        }
+    },
+    {
+        "name": "Gloves of the Fang",
+        "slot": "gauntlets",
+        "type": "leather",
+        "attributes": {
+            "health": 20,
+            "attack": 20,
+            "defense": 20,
+            "mana": 15
+        }
+    },
+    {
+        "name": "Handgrips of Assassination",
+        "slot": "gauntlets",
+        "type": "leather",
+        "attributes": {
+            "health": 30,
+            "attack": 20,
+            "defense": 20,
+            "mana": 20
+        }
     }
 ]
