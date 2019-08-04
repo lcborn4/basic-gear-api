@@ -1,5 +1,57 @@
 [
     {
-        "name": "Cloth Leggings"
+        "name": "Cloth Leggings",
+        "slot": "legs",
+        "type": "cloth",
+        "attributes": {
+            "health": 10,
+            "attack": 10,
+            "defense": 1,
+            "mana": 10
+        }
+    },
+    {
+        "name": "Linen Pants",
+        "slot": "legs",
+        "type": "cloth",
+        "attributes": {
+            "health": 15,
+            "attack": 15,
+            "defense": 2,
+            "mana": 20
+        }
+    },
+    {
+        "name": "Form-fitting Pants",
+        "slot": "legs",
+        "type": "cloth",
+        "attributes": {
+            "health": 30,
+            "attack": 20,
+            "defense": 1,
+            "mana": 30
+        }
+    },
+    {
+        "name": "Leggings of Hallowed Fire",
+        "slot": "legs",
+        "type": "cloth",
+        "attributes": {
+            "health": 60,
+            "attack": 40,
+            "defense": 10,
+            "mana": 50
+        }
+    },
+    {
+        "name": "Frostbreath Leggings",
+        "slot": "legs",
+        "type": "cloth",
+        "attributes": {
+            "health": 80,
+            "attack": 30,
+            "defense": 10,
+            "mana": 60
+        }
     }
 ]
