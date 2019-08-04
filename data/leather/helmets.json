@@ -1,5 +1,57 @@
 [
     {
-        "name": "Leather Helmet"
+        "name": "Leather Helmet",
+        "slot": "head",
+        "type": "leather",
+        "attributes": {
+            "health": 10,
+            "attack": 10,
+            "defense": 2,
+            "mana": 1
+        }
+    },
+    {
+        "name": "Netherstorm Eyepatch",
+        "slot": "head",
+        "type": "leather",
+        "attributes": {
+            "health": 1,
+            "attack": 1,
+            "defense": 2,
+            "mana": 5
+        }
+    },
+    {
+        "name": "Deathsnap Hood",
+        "slot": "head",
+        "type": "leather",
+        "attributes": {
+            "health": 25,
+            "attack": 10,
+            "defense": 10,
+            "mana": 10
+        }
+    },
+    {
+        "name": "Notorious Gladiator Helmet",
+        "slot": "head",
+        "type": "leather",
+        "attributes": {
+            "health": 40,
+            "attack": 30,
+            "defense": 15,
+            "mana": 15
+        }
+    },
+    {
+        "name": "Ninja Mask",
+        "slot": "head",
+        "type": "leather",
+        "attributes": {
+            "health": 50,
+            "attack": 30,
+            "defense": 25,
+            "mana": 20
+        }
     }
 ]
