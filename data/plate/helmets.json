@@ -1,8 +1,57 @@
 [
     {
-        "name": "Steel Helmet"
+        "name": "Steel Helmet",
+        "slot": "head",
+        "type": "plate",
+        "attributes": {
+            "health": 25,
+            "attack": 10,
+            "defense": 10,
+            "mana": 20
+        }
     },
     {
-        "name":"Helmet of Wrath"
+        "name": "Mask of Penance",
+        "slot": "head",
+        "type": "plate",
+        "attributes": {
+            "health": 30,
+            "attack": 1,
+            "defense": 10,
+            "mana": 10
+        }
+    },
+    {
+        "name": "Dreadnaught Helmet",
+        "slot": "head",
+        "type": "plate",
+        "attributes": {
+            "health": 40,
+            "attack": 10,
+            "defense": 30,
+            "mana": 30
+        }
+    },
+    {
+        "name": "Bone-Fetished Faceguard",
+        "slot": "head",
+        "type": "plate",
+        "attributes": {
+            "health": 50,
+            "attack": 40,
+            "defense": 25,
+            "mana": 70
+        }
+    },
+    {
+        "name": "Helmet of Wrath",
+        "slot": "head",
+        "type": "plate",
+        "attributes": {
+            "health": 60,
+            "attack": 30,
+            "defense": 50,
+            "mana": 100
+        }
     }
 ]
