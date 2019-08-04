@@ -1,5 +1,57 @@
 [
     {
-        "name": "Cloth Boots"
-    }
+        "name": "Cloth Boots",
+        "slot": "boots",
+        "type": "cloth",
+        "attributes": {
+            "health": 1,
+            "attack": 5,
+            "defense": 1,
+            "mana": 20
+        }
+    },
+    {
+        "name": "Ruby Slippers",
+        "slot": "boots",
+        "type": "cloth",
+        "attributes": {
+            "health": 5,
+            "attack": 5,
+            "defense": 2,
+            "mana": 20
+        }
+    },
+    {
+        "name": "Fire Striders",
+        "slot": "boots",
+        "type": "cloth",
+        "attributes": {
+            "health": 10,
+            "attack": 10,
+            "defense": 5,
+            "mana": 30
+        }
+    },
+    {
+        "name": "Slippers of the Holy Light",
+        "slot": "boots",
+        "type": "cloth",
+        "attributes": {
+            "health": 15,
+            "attack": 15,
+            "defense": 10,
+            "mana": 50
+        }
+    },
+    {
+        "name": "Boots of the Long Road",
+        "slot": "boots",
+        "type": "cloth",
+        "attributes": {
+            "health": 25,
+            "attack": 30,
+            "defense": 10,
+            "mana": 80
+        }
+    },
 ]
