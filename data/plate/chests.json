@@ -1,5 +1,57 @@
 [
     {
-        "name": "Steel Chest"
+        "name": "Steel Chest",
+        "slot": "chest",
+        "type": "plate",
+        "attributes": {
+            "health": 30,
+            "attack": 10,
+            "defense": 10,
+            "mana": 30
+        }
+    },
+    {
+        "name": "Vanguard Breastplate",
+        "slot": "chest",
+        "type": "plate",
+        "attributes": {
+            "health": 60,
+            "attack": 20,
+            "defense": 30,
+            "mana": 40
+        }
+    },
+    {
+        "name": "Enchanted Thorium Breastplate",
+        "slot": "chest",
+        "type": "plate",
+        "attributes": {
+            "health": 80,
+            "attack": 30,
+            "defense": 40,
+            "mana": 80
+        }
+    },
+    {
+        "name": "Stormcrash Chestguard",
+        "slot": "chest",
+        "type": "plate",
+        "attributes": {
+            "health": 100,
+            "attack": 30,
+            "defense": 50,
+            "mana": 100
+        }
+    },
+    {
+        "name": "Deathguard's Breastplate",
+        "slot": "chest",
+        "type": "plate",
+        "attributes": {
+            "health": 125,
+            "attack": 50,
+            "defense": 75,
+            "mana": 100
+        }
     }
 ]
