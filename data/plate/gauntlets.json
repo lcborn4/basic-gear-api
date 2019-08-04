@@ -1,5 +1,57 @@
 [
     {
-        "name": "Steel Gauntlets"
+        "name": "Steel Gauntlets",
+        "slot": "gauntlets",
+        "type": "plate",
+        "attributes": {
+            "health": 15,
+            "attack": 5,
+            "defense": 20,
+            "mana": 10
+        }
+    },
+    {
+        "name": "Lightforge Gauntlets",
+        "slot": "gauntlets",
+        "type": "plate",
+        "attributes": {
+            "health": 25,
+            "attack": 10,
+            "defense": 30,
+            "mana": 20
+        }
+    },
+    {
+        "name": "Steelgrip Gauntlets",
+        "slot": "gauntlets",
+        "type": "plate",
+        "attributes": {
+            "health": 30,
+            "attack": 15,
+            "defense": 40,
+            "mana": 30
+        }
+    },
+    {
+        "name": "Judgement Gauntlets",
+        "slot": "gauntlets",
+        "type": "plate",
+        "attributes": {
+            "health": 45,
+            "attack": 20,
+            "defense": 50,
+            "mana": 30
+        }
+    },
+    {
+        "name": "Exalted Gauntlets",
+        "slot": "gauntlets",
+        "type": "plate",
+        "attributes": {
+            "health": 70,
+            "attack": 20,
+            "defense": 75,
+            "mana": 50
+        }
     }
 ]
