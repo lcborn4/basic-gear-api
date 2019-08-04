@@ -1,5 +1,57 @@
 [
     {
-        "name": "Leather Boots"
+        "name": "Leather Boots",
+        "slot": "boots",
+        "type": "leather",
+        "attributes": {
+            "health": 1,
+            "attack": 5,
+            "defense": 5,
+            "mana": 1
+        }
+    },
+    {
+        "name": "Grim Boots",
+        "slot": "boots",
+        "type": "leather",
+        "attributes": {
+            "health": 5,
+            "attack": 10,
+            "defense": 10,
+            "mana": 1
+        }
+    },
+    {
+        "name": "Cabalist Boots",
+        "slot": "boots",
+        "type": "leather",
+        "attributes": {
+            "health": 10,
+            "attack": 10,
+            "defense": 15,
+            "mana": 5
+        }
+    },
+    {
+        "name": "Slippers of the Unruly Fairies",
+        "slot": "boots",
+        "type": "leather",
+        "attributes": {
+            "health": 15,
+            "attack": 15,
+            "defense": 20,
+            "mana": 5
+        }
+    },
+    {
+        "name": "Glacier Walkers",
+        "slot": "boots",
+        "type": "leather",
+        "attributes": {
+            "health": 25,
+            "attack": 30,
+            "defense": 25,
+            "mana": 10
+        }
     }
 ]
