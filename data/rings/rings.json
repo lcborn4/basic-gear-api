@@ -13,9 +13,9 @@
         "name": "Ring of Strength",
         "slot": "ring",
         "attributes": {
-            "health": 5,
+            "health": 15,
             "attack": 5,
-            "defense": 1,
+            "defense": 10,
             "mana": 5
         }
     },
@@ -24,7 +24,7 @@
         "slot": "ring",
         "attributes": {
             "health": 5,
-            "attack": 5,
+            "attack": 20,
             "defense": 1,
             "mana": 5
         }
@@ -33,30 +33,30 @@
         "name": "Summoner's Ring",
         "slot": "ring",
         "attributes": {
-            "health": 5,
-            "attack": 5,
+            "health": 10,
+            "attack": 10,
             "defense": 1,
-            "mana": 5
+            "mana": 15
         }
     },
     {
         "name": "Seal of the Archmagus",
         "slot": "ring",
         "attributes": {
-            "health": 5,
-            "attack": 5,
+            "health": 10,
+            "attack": 15,
             "defense": 1,
-            "mana": 5
+            "mana": 20
         }
     },
     {
         "name": "Logic Loop of Recursion",
         "slot": "ring",
         "attributes": {
-            "health": 5,
-            "attack": 5,
+            "health": 10,
+            "attack": 10,
             "defense": 1,
-            "mana": 5
+            "mana": 20
         }
     }
 ]
