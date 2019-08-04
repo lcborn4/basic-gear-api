@@ -1,5 +1,57 @@
 [
     {
-        "name": "Cloth Chest"
+        "name": "Cloth Chest",
+        "slot": "boots",
+        "type": "cloth",
+        "attributes": {
+            "health": 10,
+            "attack": 10,
+            "defense": 1,
+            "mana": 30
+        }
+    },
+    {
+        "name": "Robes of Insight",
+        "slot": "boots",
+        "type": "cloth",
+        "attributes": {
+            "health": 25,
+            "attack": 20,
+            "defense": 4,
+            "mana": 40
+        }
+    },
+    {
+        "name": "Robe of Winter Night",
+        "slot": "boots",
+        "type": "cloth",
+        "attributes": {
+            "health": 40,
+            "attack": 30,
+            "defense": 5,
+            "mana": 80
+        }
+    },
+    {
+        "name": "Robe of the Archmage",
+        "slot": "boots",
+        "type": "cloth",
+        "attributes": {
+            "health": 75,
+            "attack": 30,
+            "defense": 10,
+            "mana": 100
+        }
+    },
+    {
+        "name": "Avatar Raiment",
+        "slot": "boots",
+        "type": "cloth",
+        "attributes": {
+            "health": 100,
+            "attack": 50,
+            "defense": 15,
+            "mana": 150
+        }
     }
 ]
