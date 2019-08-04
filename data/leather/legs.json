@@ -1,5 +1,57 @@
 [
     {
-        "name": "Leather Leggings"
+        "name": "Leather Leggings",
+        "slot": "legs",
+        "type": "leather",
+        "attributes": {
+            "health": 10,
+            "attack": 10,
+            "defense": 5,
+            "mana": 5
+        }
+    },
+    {
+        "name": "Bandit Pants",
+        "slot": "legs",
+        "type": "leather",
+        "attributes": {
+            "health": 15,
+            "attack": 15,
+            "defense": 10,
+            "mana": 15
+        }
+    },
+    {
+        "name": "Sentinel Trousers",
+        "slot": "legs",
+        "type": "leather",
+        "attributes": {
+            "health": 30,
+            "attack": 20,
+            "defense": 15,
+            "mana": 25
+        }
+    },
+    {
+        "name": "Nice Shorts",
+        "slot": "legs",
+        "type": "leather",
+        "attributes": {
+            "health": 60,
+            "attack": 35,
+            "defense": 20,
+            "mana": 40
+        }
+    },
+    {
+        "name": "Ceremonial Leather Loincloth",
+        "slot": "legs",
+        "type": "leather",
+        "attributes": {
+            "health": 80,
+            "attack": 40,
+            "defense": 25,
+            "mana": 60
+        }
     }
 ]
