@@ -1,7 +1,7 @@
 [
     {
         "name": "Cloth Chest",
-        "slot": "boots",
+        "slot": "chest",
         "type": "cloth",
         "attributes": {
             "health": 10,
@@ -12,7 +12,7 @@
     },
     {
         "name": "Robes of Insight",
-        "slot": "boots",
+        "slot": "chest",
         "type": "cloth",
         "attributes": {
             "health": 25,
@@ -23,7 +23,7 @@
     },
     {
         "name": "Robe of Winter Night",
-        "slot": "boots",
+        "slot": "chest",
         "type": "cloth",
         "attributes": {
             "health": 40,
@@ -34,7 +34,7 @@
     },
     {
         "name": "Robe of the Archmage",
-        "slot": "boots",
+        "slot": "chest",
         "type": "cloth",
         "attributes": {
             "health": 75,
@@ -45,7 +45,7 @@
     },
     {
         "name": "Avatar Raiment",
-        "slot": "boots",
+        "slot": "chest",
         "type": "cloth",
         "attributes": {
             "health": 100,
