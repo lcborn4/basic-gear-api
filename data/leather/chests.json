@@ -1,5 +1,57 @@
 [
     {
-        "name": "Leather Chest"
+        "name": "Leather Chest",
+        "slot": "chest",
+        "type": "leather",
+        "attributes": {
+            "health": 10,
+            "attack": 10,
+            "defense": 5,
+            "mana": 5
+        }
+    },
+    {
+        "name": "Tribal Vest",
+        "slot": "chest",
+        "type": "leather",
+        "attributes": {
+            "health": 25,
+            "attack": 20,
+            "defense": 10,
+            "mana": 10
+        }
+    },
+    {
+        "name": "Polar Vest",
+        "slot": "chest",
+        "type": "leather",
+        "attributes": {
+            "health": 40,
+            "attack": 30,
+            "defense": 15,
+            "mana": 15
+        }
+    },
+    {
+        "name": "Dreadleather Jerkin",
+        "slot": "chest",
+        "type": "leather",
+        "attributes": {
+            "health": 75,
+            "attack": 30,
+            "defense": 20,
+            "mana": 20
+        }
+    },
+    {
+        "name": "Defias Brotherhood Vest",
+        "slot": "chest",
+        "type": "leather",
+        "attributes": {
+            "health": 100,
+            "attack": 50,
+            "defense": 30,
+            "mana": 25
+        }
     }
 ]
