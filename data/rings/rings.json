@@ -1,20 +1,62 @@
 [
     {
-        "name": "Ring of Truth"
+        "name": "Ring of Truth",
+        "slot": "ring",
+        "attributes": {
+            "health": 5,
+            "attack": 5,
+            "defense": 1,
+            "mana": 5
+        }
     },
     {
-        "name": "Ring of Strength"
+        "name": "Ring of Strength",
+        "slot": "ring",
+        "attributes": {
+            "health": 5,
+            "attack": 5,
+            "defense": 1,
+            "mana": 5
+        }
     },
     {
-        "name": "Ring of Attack"
+        "name": "Ring of Attack",
+        "slot": "ring",
+        "attributes": {
+            "health": 5,
+            "attack": 5,
+            "defense": 1,
+            "mana": 5
+        }
     },
     {
-        "name":"Summoner's Ring"
+        "name": "Summoner's Ring",
+        "slot": "ring",
+        "attributes": {
+            "health": 5,
+            "attack": 5,
+            "defense": 1,
+            "mana": 5
+        }
     },
     {
-        "name":"Seal of the Archmagus"
+        "name": "Seal of the Archmagus",
+        "slot": "ring",
+        "attributes": {
+            "health": 5,
+            "attack": 5,
+            "defense": 1,
+            "mana": 5
+        }
     },
     {
-        "name":"Logic Loop of Recursion"
+        "name": "Logic Loop of Recursion",
+        "slot": "ring",
+        "attributes": {
+            "health": 5,
+            "attack": 5,
+            "defense": 1,
+            "mana": 5
+        }
     }
 ]
