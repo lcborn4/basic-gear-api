@@ -1,8 +1,57 @@
 [
     {
-        "name": "Cloth Helmet"
+        "name": "Cloth Helmet",
+        "slot": "head",
+        "type": "cloth",
+        "attributes": {
+            "health": 10,
+            "attack": 10,
+            "defense": 1,
+            "mana": 20
+        }
     },
     {
-        "name":"Cowl of the Avatar"
+        "name": "Straw Hat",
+        "slot": "head",
+        "type": "cloth",
+        "attributes": {
+            "health": 1,
+            "attack": 1,
+            "defense": 1,
+            "mana": 10
+        }
+    },
+    {
+        "name": "Bad Mojo Mask",
+        "slot": "head",
+        "type": "cloth",
+        "attributes": {
+            "health": 25,
+            "attack": 10,
+            "defense": 3,
+            "mana": 30
+        }
+    },
+    {
+        "name": "Felheart Horns",
+        "slot": "head",
+        "type": "cloth",
+        "attributes": {
+            "health": 40,
+            "attack": 40,
+            "defense": 5,
+            "mana": 70
+        }
+    },
+    {
+        "name": "Cowl of the Avatar",
+        "slot": "head",
+        "type": "cloth",
+        "attributes": {
+            "health": 50,
+            "attack": 30,
+            "defense": 10,
+            "mana": 100
+        }
     }
 ]
