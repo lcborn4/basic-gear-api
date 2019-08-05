@@ -1,8 +1,57 @@
 [
     {
-        "name": "Steel Leggings"
+        "name": "Steel Leggings",
+        "slot": "legs",
+        "type": "plate",
+        "attributes": {
+            "health": 30,
+            "attack": 10,
+            "defense": 50,
+            "mana": 10
+        }
     },
     {
-        "name":"Flamewaker Legplates"
+        "name": "Glorious Legplates",
+        "slot": "legs",
+        "type": "plate",
+        "attributes": {
+            "health": 45,
+            "attack": 15,
+            "defense": 75,
+            "mana": 20
+        }
+    },
+    {
+        "name": "Cobalt Legguards",
+        "slot": "legs",
+        "type": "plate",
+        "attributes": {
+            "health": 55,
+            "attack": 20,
+            "defense": 100,
+            "mana": 30
+        }
+    },
+    {
+        "name": "Legplates of Wrath",
+        "slot": "legs",
+        "type": "plate",
+        "attributes": {
+            "health": 80,
+            "attack": 40,
+            "defense": 130,
+            "mana": 50
+        }
+    },
+    {
+        "name": "Flamewaker Leggings",
+        "slot": "legs",
+        "type": "plate",
+        "attributes": {
+            "health": 100,
+            "attack": 30,
+            "defense": 160,
+            "mana": 60
+        }
     }
 ]
