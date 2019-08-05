@@ -30,4 +30,4 @@ Possible values: cloth, leather, plate
 
 ## Calling Routes
 ### GIFs
-TODO
+![calling items](https://github.com/lcborn4/basic-gear-api/blob/master/calling_items.gif)
