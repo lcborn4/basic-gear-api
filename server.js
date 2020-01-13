@@ -8,7 +8,7 @@ var items = require('./data/items').items
 
 //tester
 app.get('/', function (req, res) {
-    res.send("Hello World");
+    res.send("Hello World - ", process.env.HAPPY);
 });
 
 //the items
